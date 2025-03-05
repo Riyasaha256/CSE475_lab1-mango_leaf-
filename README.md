@@ -19,11 +19,14 @@
    2.A bar plot was created to visualize the distribution of images across different classes. Each bar represents the number of images in each category, indicating that the dataset is well-balanced across classes.
    
    3.Sample images from each class were displayed to verify the dataset contents.
+   
                         output: ![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/2bbcc7ecfb00314616b795011e26f101d92a2f58/Screenshot%202025-03-05%20145746%20output1.png)
                         
  # 2.3 Data Preprocessing
    1.The images were loaded using OpenCV and converted from BGR to RGB format.
+   
    2.The images were flattened into 1D arrays to create a structured dataset suitable for machine learning models.
+   
    3.A Pandas DataFrame was created with the processed image data and corresponding labels.
    
 
@@ -31,13 +34,17 @@
 
   # 3.1 Data Splitting
       1. The dataset was split into training (80%) and testing (20%) sets using train_test_split.
+      
       2. Stratified sampling was used to maintain class distribution in both sets.
 
       output: Training set shape: (3200, 12288), (3200,)
               Testing set shape: (800, 12288), (800,)
 
-            link : ![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/28230413779d161df1d1d33cda53f0b9b7b1ee1b/Screenshot%202025-03-05%20152859%20output2%20train%20test.png)
-                 
+              
+   # 3.1 Decision Tree Classifier
+
+   
+           
       
 
      
