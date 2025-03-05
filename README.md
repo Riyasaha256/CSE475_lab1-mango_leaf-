@@ -15,7 +15,9 @@
  # 2.2 Data Exploration
 
    1.The dataset contains images in different sizes, and unique image resolutions were identified.
-   2.A bar plot was created to visualize the distribution of images across different classes. Each bar represents the number of images in each category, indicating that the dataset is well-balanced across classes. 
+   
+   2.A bar plot was created to visualize the distribution of images across different classes. Each bar represents the number of images in each category, indicating that the dataset is well-balanced across classes.
+   
    3.Sample images from each class were displayed to verify the dataset contents.
                         output: ![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/2bbcc7ecfb00314616b795011e26f101d92a2f58/Screenshot%202025-03-05%20145746%20output1.png)
                         
@@ -34,9 +36,7 @@
       output: Training set shape: (3200, 12288), (3200,)
               Testing set shape: (800, 12288), (800,)
 
-                 link:![Image Description](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/121777b34a7d821be7ab59f6383cb5f00dd58cd3/train%20test%20output2.png?raw=true)
-
-
+            link : ![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/28230413779d161df1d1d33cda53f0b9b7b1ee1b/Screenshot%202025-03-05%20152859%20output2%20train%20test.png)
                  
       
 
