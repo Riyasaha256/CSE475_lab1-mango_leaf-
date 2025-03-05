@@ -59,7 +59,7 @@
 output:![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/main/Screenshot%202025-03-05%20155812%20output3.png?raw=true)
 
 
-output:![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/main/Screenshot%202025-03-05%20160141%20output4.png?raw=true)
+![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/main/Screenshot%202025-03-05%20160141%20output4.png?raw=true)
 
 
 
