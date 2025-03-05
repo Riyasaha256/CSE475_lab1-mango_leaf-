@@ -40,7 +40,7 @@
       output: Training set shape: (3200, 12288), (3200,)
               Testing set shape: (800, 12288), (800,)
               
-   # 3.1 Decision Tree Classifier
+   # 3.2 Decision Tree Classifier
 
        1. The decision tree was trained on the numerical feature representations of the mango leaf images.
 
@@ -62,8 +62,35 @@ output:![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/
 ![image alt](https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/main/Screenshot%202025-03-05%20160141%20output4.png?raw=true)
 
 
+# 3.3 Random Forest Classifier
+
+       1.The model was trained using multiple decision trees on different random subsets of the mango leaf dataset.
+
+       2.Each tree independently classifies the leaf, and the final prediction is based on majority voting.
+
+       3.This approach helps reduce overfitting and increases robustness.
+
+       output: Random Forest Accuracy: 0.88
+
+![image alt]( https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/main/Screenshot%202025-03-05%20172505%20output5.png?raw=true)
 
 
+
+# 3.4 Model Comparison
+
+![image alt]( https://github.com/Riyasaha256/CSE475_lab1-mango_leaf-/blob/main/Screenshot%202025-03-05%20173447%20output6.png?raw=true)    
+
+
+ The Random Forest model significantly outperforms the Decision Tree classifier in all evaluation metrics, demonstrating better generalization ability and accuracy.
+
+
+ # Conclusion
+
+   1. EDA revealed key statistical insights, including feature distributions and correlations.
+
+   2. The Decision Tree classifier provides a simple and interpretable model but suffers from lower accuracy and higher variance.
+
+   3. The Random Forest classifier achieves superior performance due to its ensemble approach, reducing variance and improving accuracy.
 
 
                 
